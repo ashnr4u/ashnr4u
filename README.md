@@ -1,20 +1,20 @@
 <h1 align="center">Hi, I'm Ashutosh Narayan 👋</h1>
 
-<h3 align="center">Aspiring Software Engineer | AI Engineer | LLM Application Developer</h3>
+<h3 align="center">Software Engineer • AI Engineer • LLM Application Developer</h3>
 
 <p align="center">
-  Building AI-powered applications, backend systems, and intelligent automation tools.
+Building AI-powered applications, recommendation systems, and developer tools with modern LLMs.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🚀 Passionate about AI Engineering, Backend Development, and Machine Learning
-* 🤖 Building LLM-powered applications using LangChain, FAISS, Groq, and OpenAI APIs
-* 🛠️ Experienced in developing end-to-end projects with Python, FastAPI, Streamlit, and Supabase
-* 🌱 Currently learning System Design, MLOps, and Cloud Technologies
-* 🎯 Seeking Software Engineering and AI/ML internship opportunities
+* 🤖 Developing AI applications powered by LLMs, RAG pipelines, and vector databases
+* 🚀 Passionate about Software Engineering, Backend Development, and Machine Learning
+* 🛠 Building end-to-end solutions using Python, FastAPI, Streamlit, Supabase, and LangChain
+* 🌱 Exploring System Design, MLOps, AI Agents, and Cloud Technologies
+* 💡 Interested in solving real-world problems through intelligent software systems
 
 ---
 
@@ -31,8 +31,8 @@
 
 ![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat)
 ![FAISS](https://img.shields.io/badge/-FAISS-333333?style=flat)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-333333?style=flat\&logo=huggingface)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-333333?style=flat\&logo=openai)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-333333?style=flat\&logo=huggingface)
 
 ### Backend & Databases
 
@@ -51,21 +51,27 @@
 
 ## 🚀 Featured Projects
 
-### 🎓 Degree Recommendation System
+### 🎤 VoiceDevAssistant
 
-AI-powered recommendation engine that suggests suitable degree programs based on student interests, career goals, and academic background.
+Voice-enabled AI assistant designed to improve developer productivity through natural language interactions.
 
-### 📄 Resume Analyzer
+🔗 Repository: https://github.com/ashnr4u/VoiceDevAssistant
 
-LLM-based application that analyzes resumes and provides structured feedback for improvement.
+---
 
-### 💬 RAG Chat Applications
+### 🎓 AcademicPathway Recommendation Engine
 
-Built Retrieval-Augmented Generation systems using LangChain, vector databases, and modern LLMs.
+AI-powered recommendation system that suggests suitable academic pathways and degree programs based on user goals and interests.
 
-### 🤖 AI Automation Tools
+🔗 Repository: https://github.com/ashnr4u/AcademicPathway_RecommendationEngine
 
-Developed intelligent workflows integrating LLM APIs, databases, and backend services.
+---
+
+### 🤖 AL Chatbot
+
+Conversational AI application built using modern LLM technologies with context-aware interactions.
+
+🔗 Repository: https://github.com/ashnr4u/AL_Chatbot
 
 ---
 
@@ -82,11 +88,11 @@ Developed intelligent workflows integrating LLM APIs, databases, and backend ser
 
 ---
 
-## 📈 Current Focus
+## 📈 Currently Exploring
 
 * Large Language Models (LLMs)
 * Retrieval-Augmented Generation (RAG)
-* AI Agents & Automation
+* AI Agents & Multi-Agent Systems
 * Backend Engineering
 * System Design
 * Cloud Deployment
@@ -96,17 +102,19 @@ Developed intelligent workflows integrating LLM APIs, databases, and backend ser
 ## 🤝 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/anryn786">
-<img src="https://img.shields.io/badge/LinkedIn-Ashutosh%20Narayan-blue?style=for-the-badge&logo=linkedin">
-</a>
 
 <a href="mailto:ashurav786@gmail.com">
 <img src="https://img.shields.io/badge/Email-ashurav786@gmail.com-red?style=for-the-badge&logo=gmail">
 </a>
+
+<a href="https://www.linkedin.com/in/anryn786">
+<img src="https://img.shields.io/badge/LinkedIn-Ashutosh%20Narayan-blue?style=for-the-badge&logo=linkedin">
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-⭐ Building AI solutions one project at a time.
+Building practical AI applications and continuously learning new technologies.
 </p>
