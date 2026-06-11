@@ -53,7 +53,13 @@ Building AI-powered applications, recommendation systems, and developer tools wi
 
 ### 🎤 VoiceDevAssistant
 
-Voice-enabled AI assistant designed to improve developer productivity through natural language interactions.
+Voice-enabled coding assistant integrating Whisper, OpenWakeWord, Groq API, and Aider.
+
+**Highlights**
+Wake-word detection
+Voice-to-code workflows
+AI-assisted code generation
+Automated Git commits
 
 🔗 Repository: https://github.com/ashnr4u/VoiceDevAssistant
 
@@ -61,7 +67,14 @@ Voice-enabled AI assistant designed to improve developer productivity through na
 
 ### 🎓 AcademicPathway Recommendation Engine
 
-AI-powered recommendation system that suggests suitable academic pathways and degree programs based on user goals and interests.
+AI-powered recommendation platform built with Streamlit and Supabase.
+
+**Highlights**
+User profile collection
+LLM-based recommendations
+Cloud database integration
+Public deployment
+RAG PDF QA Chatbot
 
 🔗 Repository: https://github.com/ashnr4u/AcademicPathway_RecommendationEngine
 
@@ -69,7 +82,13 @@ AI-powered recommendation system that suggests suitable academic pathways and de
 
 ### 🤖 AL Chatbot
 
-Conversational AI application built using modern LLM technologies with context-aware interactions.
+End-to-end Retrieval-Augmented Generation system for document question answering.
+
+**Highlights**
+FAISS vector database
+BGE embeddings
+Semantic retrieval
+Source-grounded responses
 
 🔗 Repository: https://github.com/ashnr4u/AL_Chatbot
 
