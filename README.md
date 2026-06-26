@@ -17,35 +17,22 @@ Building AI-powered applications, recommendation systems, and developer tools wi
 * 💡 Interested in solving real-world problems through intelligent software systems
 
 ---
-
 ## 🛠 Tech Stack
 
-### Languages
+**Languages:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat\&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat\&logo=mysql)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat\&logo=javascript)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat\&logo=c%2B%2B)
+**Backend:**  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![REST APIs](https://img.shields.io/badge/-REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 
-### AI / Machine Learning
+**AI/ML:**  
+![RAG](https://img.shields.io/badge/-RAG-1C3C3C?style=flat-square) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![FAISS](https://img.shields.io/badge/-FAISS-0052CC?style=flat-square&logo=facebook&logoColor=white) ![Sentence Transformers](https://img.shields.io/badge/-Sentence_Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square) ![Whisper](https://img.shields.io/badge/-Whisper-412991?style=flat-square&logo=openai&logoColor=white)
 
-![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat)
-![FAISS](https://img.shields.io/badge/-FAISS-333333?style=flat)
-![OpenAI](https://img.shields.io/badge/-OpenAI-333333?style=flat\&logo=openai)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-333333?style=flat\&logo=huggingface)
+**Frontend:**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Backend & Databases
-
-![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat\&logo=fastapi)
-![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat\&logo=supabase)
-![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat\&logo=sqlite)
-![REST API](https://img.shields.io/badge/-REST_API-333333?style=flat)
-
-### Tools
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat\&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat\&logo=github)
-![VS Code](https://img.shields.io/badge/-VS_Code-333333?style=flat\&logo=visual-studio-code)
+**Tools:**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
@@ -111,13 +98,16 @@ End-to-end Retrieval-Augmented Generation system for document question answering
 
 ## 📈 Currently Exploring
 
-* Large Language Models (LLMs)
-* Retrieval-Augmented Generation (RAG)
-* AI Agents & Multi-Agent Systems
-* Backend Engineering
-* System Design
-* Cloud Deployment
+Replace "Currently Exploring" with only what you're actually learning now:
 
+
+System Design
+
+* GCP (Vertex AI, Cloud Storage)
+* Backend Engineering
+* MLOps
+* AI Agents & Multi-Agent Systems
+  
 ---
 
 ## 🤝 Connect With Me
